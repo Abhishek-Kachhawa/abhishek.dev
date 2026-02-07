@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* optional: agar default reset chahiye */
+html, body, #root {
+  height: 100%;
+}
